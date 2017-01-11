@@ -1,6 +1,7 @@
 # gulp-xml-editor
 
 gulp-xml-editor is a [gulp](https://github.com/wearefractal/gulp) plugin to edit XML document based on [libxmljs](https://github.com/polotek/libxmljs).
+I forked this version to use libxmljs 0.18.0 for node 7.4.0 (avoids `node-gyp rebuild` issue).
 
 ## Usage
 ```javascript
